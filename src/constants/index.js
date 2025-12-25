@@ -159,6 +159,20 @@ const technologies = [
 
 const experiences = [
   {
+  title: "Business Intelligence Engineer",
+  company_name: "Amazon",
+  icon: amazon,
+  iconBg: "#232F3E",
+  date: "Aug 2025 - Present",
+  points: [
+    "Full-time member of Amazon’s Global Finance Audit (GFA) team driving in-house recovery of billing and financial discrepancies.",
+    "Identified and recovered revenue by auditing vendor and internal billing transactions, uncovering overcharges, leakage, and control gaps.",
+    "Designed and automated in-house audit and recovery dashboards using SQL, Redshift, and Tableau, reducing dependency on external vendors.",
+    "Enabled proactive detection of recoverable amounts through data-driven controls, increasing recovery speed and accuracy.",
+    "Partnered with finance, operations, and tech teams to resolve findings and institutionalize in-house recovery processes.",
+    ],
+  },
+  {
     title: "Business Intelligence Engineer Intern",
     company_name: "Amazon",
     icon: amazon, // replace with your Amazon logo import
